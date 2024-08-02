@@ -7,7 +7,7 @@ A simple and visually appealing Todo App built with React, featuring CRUD functi
 
 Demo
 
-Check out the live demo here.
+Check out the live demo here.https://master--lucky-choux-a7f180.netlify.app/
 
 Features
 
