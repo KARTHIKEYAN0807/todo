@@ -11,26 +11,26 @@ Check out the live demo here.
 
 Features
 
-Create Todo:
+1) Create Todo:
 
 Add new todos with a name and description.
 
-Read Todos:
+2) Read Todos:
 
 View a list of all created todos.
 
-Update Todo: 
+3) Update Todo: 
 
 Edit the name, description, and status of existing todos.
 
-Delete Todo: 
+4) Delete Todo: 
 
 Remove todos from the list.
 
-Status Filtering:
+5) Status Filtering:
 
 Filter todos by their status (All, Completed, Not Completed).
 
-Animations and Styles: 
+6) Animations and Styles: 
 
 Modern design with smooth animations and vibrant colors.
